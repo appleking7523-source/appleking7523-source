@@ -1,40 +1,29 @@
-<div align="center">
-
 # CHUL O KWON
 
 ### UI/UX Designer · Web Designer · Publisher
 
-사용자 경험을 기반으로  
-직관적이고 일관성 있는 인터페이스를 설계합니다.
+사용자의 흐름을 이해하고,  
+디자인에서 웹 구현까지 연결되는 경험을 고민합니다.
 
-디자인뿐만 아니라 실제 구현까지 고려하며  
-사용성과 완성도를 함께 고민합니다.
-
-<br>
-
-[Portfolio](https://your-portfolio-link.com) ·
-[Email](mailto:your_email@example.com)
-
-</div>
+`UI/UX Design` · `Web Design` · `Responsive Web` · `Figma` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
-# About Me
+## About Me
 
-- UI/UX 디자인 및 웹 디자인 학습
+- UI/UX 디자인 및 웹디자인 학습
+- 사용자 중심 인터페이스 설계 관심
 - 웹 퍼블리싱 기반의 구현 가능한 디자인 지향
-- 반응형 웹 및 사용자 중심 인터페이스 설계
-- 디자인 시스템 및 일관된 컴포넌트 구조 관심
-- 콘텐츠 / 그래픽 디자인 작업 가능
+- 반응형 웹 및 디자인 시스템 학습 중
 
 ---
 
-# Design Process
+## Design Process
 
 ```mermaid
 flowchart LR
 
-    A[UX Research]
+    A[Research]
     --> B[User Flow]
     --> C[Wireframe]
     --> D[UI Design]
@@ -45,69 +34,40 @@ flowchart LR
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Design
+### Design
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
-  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00">
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-## Publishing
+### Web
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Collaboration
+### Tools
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# Projects
-
-## Responsive Web Project
-
-사용자 경험 개선과 반응형 환경을 고려한 웹 리디자인 프로젝트
-
-### 주요 작업
-- UI 디자인
-- 반응형 웹 설계
-- 퍼블리싱
-- 인터랙션 구현
-
----
-
-## Mobile UI/UX Project
-
-사용자 흐름과 접근성을 고려한 모바일 앱 UI/UX 프로젝트
-
-### 주요 작업
-- 사용자 플로우 설계
-- 와이어프레임 제작
-- 프로토타이핑
-- UI 디자인
-
----
-
-# Currently Learning
+## Interested In
 
 - Design System
-- Responsive Layout
-- Accessibility
+- Responsive Web
+- Web Accessibility
 - Interaction Design
+- UI Publishing
 
 ---
 
-# Contact
+## Contact
 
-- Portfolio : https://your-portfolio-link.com
-- Email : your_email@example.com
+- Portfolio : 준비 중
+- GitHub : https://github.com/appleking7523
+- Email : your-email@example.com
