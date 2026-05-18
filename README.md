@@ -29,6 +29,22 @@
 
 ---
 
+# Design Process
+
+```mermaid
+flowchart LR
+
+    A[UX Research]
+    --> B[User Flow]
+    --> C[Wireframe]
+    --> D[UI Design]
+    --> E[Prototype]
+    --> F[Publishing]
+
+```
+
+---
+
 # Tech Stack
 
 ## Design
@@ -82,12 +98,16 @@
 
 ---
 
-# GitHub Stats
+# Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true">
-</p>
+- Design System
+- Responsive Layout
+- Accessibility
+- Interaction Design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact">
-</p>
+---
+
+# Contact
+
+- Portfolio : https://your-portfolio-link.com
+- Email : your_email@example.com
