@@ -82,6 +82,20 @@
 
 ---
 
+## Process
+
+```mermaid
+flowchart LR
+
+    A[Research]
+    --> B[Wireframe]
+    --> C[UI Design]
+    --> D[Prototype]
+    --> E[Publishing]
+    --> F[Responsive]
+
+---
+
 # GitHub Stats
 
 <p align="center">
