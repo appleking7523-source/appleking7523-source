@@ -1,20 +1,25 @@
+<div align="center">
+
 # CHUL O KWON
 
 ### UI/UX Designer · Web Designer · Publisher
 
-사용자의 흐름을 이해하고,  
-디자인에서 웹 구현까지 연결되는 경험을 고민합니다.
+사용자 경험을 기반으로  
+디자인과 웹 구현이 자연스럽게 연결되는 인터페이스를 고민합니다.
 
-`UI/UX Design` · `Web Design` · `Responsive Web` · `Figma` · `HTML` · `CSS` · `JavaScript`
+`UI/UX Design` · `Web Design` · `Responsive Web`  
+`Figma` · `HTML` · `CSS` · `JavaScript`
+
+</div>
 
 ---
 
 ## About Me
 
-- UI/UX 디자인 및 웹디자인 학습
-- 사용자 중심 인터페이스 설계 관심
-- 웹 퍼블리싱 기반의 구현 가능한 디자인 지향
-- 반응형 웹 및 디자인 시스템 학습 중
+- 사용자 중심의 UI/UX 설계와 웹디자인에 관심이 있습니다.
+- 디자인뿐 아니라 실제 구현 과정까지 고려한 작업을 지향합니다.
+- 반응형 웹, 디자인 시스템, 웹 접근성을 학습하며 사용자 경험 개선에 집중하고 있습니다.
+- Figma 기반의 UI 설계와 웹 퍼블리싱 작업이 가능합니다.
 
 ---
 
@@ -29,8 +34,20 @@ flowchart LR
     --> D[UI Design]
     --> E[Prototype]
     --> F[Publishing]
+    --> G[Responsive]
 
 ```
+
+---
+
+## Core Skills
+
+| UX/UI | Web | Tools |
+|---|---|---|
+| User Flow | HTML5 | Figma |
+| Wireframe | CSS3 | Photoshop |
+| Prototype | JavaScript | Illustrator |
+| Design System | Responsive Web | GitHub |
 
 ---
 
@@ -56,13 +73,23 @@ flowchart LR
 
 ---
 
-## Interested In
+## Projects
+
+| Project | Description |
+|---|---|
+| UI/UX Project | 사용자 흐름 및 인터페이스 설계 프로젝트 |
+| Responsive Web Project | 반응형 기반 웹디자인 및 퍼블리싱 프로젝트 |
+| Publishing Project | HTML/CSS/JavaScript 기반 구현 프로젝트 |
+
+---
+
+## Currently Learning
 
 - Design System
-- Responsive Web
+- Responsive Layout
 - Web Accessibility
 - Interaction Design
-- UI Publishing
+- React
 
 ---
 
@@ -70,4 +97,4 @@ flowchart LR
 
 - Portfolio : 준비 중
 - GitHub : https://github.com/appleking7523
-- Email : your-email@example.com
+- Email : appleking7523@gmail.com
